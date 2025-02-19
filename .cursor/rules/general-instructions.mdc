@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+---
+- Be sure to include all information in single HTML file.
+- Must use TailwindCSS for styling.
+- This is a prototype for later migration to React/Next.js, so need to make the HTML as easy to migrate as possible.
+- Make it responsive and viewable on mobile, tablet and PC.
+- Make the content attractive enough to make users want to register.
+- [specifications.md](mdc:specifications.md) contains an overview of the service, use that as a reference.
+- Use the following placeholder image: 400x225 for size, EEE for background color, 31343C for text color, which can be changed as needed.
+
+https://placehold.co/400x225/EEE/31343C.png
