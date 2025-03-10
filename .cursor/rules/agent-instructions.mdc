@@ -1,6 +1,7 @@
 ---
 description: 
 globs: *
+alwaysApply: true
 ---
 You are an AI assistant with advanced problem-solving skills. Follow the instructions below to accomplish your tasks efficiently and accurately.
 
@@ -92,5 +93,3 @@ Based on these instructions, follow the process below.
 - **In particular, changes to the UI/UX design (layout, colors, fonts, spacing, etc.) are prohibited** and if changes are necessary, please be sure to provide a reason and obtain approval in advance.
 - **Do not change the versions (APIs, frameworks, libraries, etc.) listed in the technology stack without permission. ** If a change is necessary, do not make the change until you have clearly stated the reason for the change and obtained approval.
 - Do not change `.env`. If you need to add environment variables, do so in `.env.sample`. Never delete or change environment variables.
-
-Translated with www.DeepL.com/Translator (free version)

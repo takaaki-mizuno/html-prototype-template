@@ -1,6 +1,7 @@
 ---
 description: 
 globs: 
+alwaysApply: true
 ---
 - Be sure to include all information in single HTML file.
 - Must use TailwindCSS for styling.
