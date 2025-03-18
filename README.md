@@ -4,7 +4,7 @@ This template is for creating HTML prototypes of any services using an Generativ
 
 ## How to use
 
-1. Write the service specifications in [specifications.md](specifications.md) (Either English or other languages are fine).
+1. Write the service specifications in [specifications.mdc](.cursor/rules/specifications.mdc) (Either English or other languages are fine).
 2. Provide a simple prompt to the AI agent ( Cursor Composer ) to develop the prototype.
 
 The way to give instructions is as follows:
